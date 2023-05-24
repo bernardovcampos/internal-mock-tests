@@ -3,8 +3,6 @@
     "data": [
       {
         "participant": {
-          "brand": "PICPAY SERVICOS S.A",
-          "name": "PICPAY INSTITUIÇÃO DE PAGAMENTO S.A",
           "cnpjNumber": "22896431000110"
         },
         "issuerInstitutionCnpjNumber": "09516419000175",

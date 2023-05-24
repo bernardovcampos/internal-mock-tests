@@ -35,7 +35,6 @@
         "maximum": "0.000000"
       },
       "loadingRate": {
-        "prices": [
           {
             "interval": "1_FAIXA",
             "value": "0.000000",
