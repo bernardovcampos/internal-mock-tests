@@ -1,18 +1,16 @@
 
-{
     "data": [
       {
         "participant": {
-          "brand": "BANCO ORIGINAL S.A",
-          "name": "BANCO ORIGINAL S.A",
-          "cnpjNumber": "92894922000108"
+          "brand": "PICPAY SERVICOS S.A",
+          "name": "PICPAY INSTITUIÇÃO DE PAGAMENTO S.A",
+          "cnpjNumber": "22896431000110"
         },
-        "issuerInstitutionCnpjNumber": "92894922000108",
-        "issuerInstitutionName": "BANCO ORIGINAL S.A",
+        "issuerInstitutionCnpjNumber": "09516419000175",
+        "issuerInstitutionName": "PICPAY BANK - BANCO MULTIPLO S.A",
         "investmentType": "CDB",
         "index": {
           "indexer": "CDI",
-          "indexerAdditionalInfo": "Informações adicionais",
           "issueRemunerationRate": {
             "prices": [
               {
@@ -32,32 +30,31 @@
               },
               {
                 "interval": "4_FAIXA",
-                "value": "0.000000",
-                "operationRate": "0.000000"
+                "value": "1.020000",
+                "operationRate": "1.000000"
               }
             ],
-            "minimum": "0.000000",
-            "maximum": "0.000000"
+            "minimum": "1.020000",
+            "maximum": "1.020000"
           }
         },
         "investmentConditions": {
-          "minimumAmount": "0.00",
+          "minimumAmount": "1.00",
           "redemptionTerm": "DIARIA",
-          "expirationPeriod": "1081+",
-          "gracePeriod": "1081+"
+          "expirationPeriod": "361_1080",
+          "gracePeriod": "361_1080"
         },
-        "targetAudience": "PESSOA_JURIDICA"
+        "targetAudience": "PESSOA_NATURAL"
       }
     ],
     "links": {
-      "self": "https://api-openfinance.original.com.br/open-banking/investments/v1/bank-fixed-incomes",
-      "first": "https://api-openfinance.original.com.br/open-banking/investments/v1/bank-fixed-incomes",
-      "prev": "https://api-openfinance.original.com.br/open-banking/investments/v1/bank-fixed-incomes",
-      "next": "https://api-openfinance.original.com.br/open-banking/investments/v1/bank-fixed-incomes",
-      "last": "https://api-openfinance.original.com.br/open-banking/investments/v1/bank-fixed-incomes"
+      "self": "https://resources-mtls.openbanking.picpay.com/open-banking/opendata-investments/v1/bank-fixed-incomes?page=1&page-size=1",
+      "first": "https://resources-mtls.openbanking.picpay.com/open-banking/opendata-investments/v1/bank-fixed-incomes?page=1&page-size=1",
+      "last": "https://resources-mtls.openbanking.picpay.com/open-banking/opendata-investments/v1/bank-fixed-incomes?page=1&page-size=1"
     },
     "meta": {
       "totalRecords": 1,
-      "totalPages": 1
+      "totalPages": 1,
+      "requestDateTime": "2023-05-24T14:04:14Z"
     }
   }
