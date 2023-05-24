@@ -3,8 +3,6 @@
   "data": [
     {
       "participant": {
-        "brand": "Caixa",
-        "name": "CAIXA ECON?MICA FEDERAL",
         "cnpjNumber": "00360305000104"
       },
       "investmentType": "FUNDO_INDICES",
@@ -35,6 +33,7 @@
         "maximum": "0.000000"
       },
       "loadingRate": {
+        "prices": [
           {
             "interval": "1_FAIXA",
             "value": "0.000000",
