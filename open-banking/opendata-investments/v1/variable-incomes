@@ -1,0 +1,500 @@
+
+{
+  "data": [
+    {
+      "participant": {
+        "brand": "Caixa",
+        "name": "CAIXA ECON?MICA FEDERAL",
+        "cnpjNumber": "00360305000104"
+      },
+      "investmentType": "FUNDO_INDICES",
+      "custodyFee": {
+        "prices": [
+          {
+            "interval": "1_FAIXA",
+            "value": "2.000000",
+            "operationRate": "0.686567"
+          },
+          {
+            "interval": "2_FAIXA",
+            "value": "2.503000",
+            "operationRate": "0.298507"
+          },
+          {
+            "interval": "3_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "4_FAIXA",
+            "value": "3.921000",
+            "operationRate": "0.014925"
+          }
+        ],
+        "minimum": "0.000000",
+        "maximum": "0.000000"
+      },
+      "loadingRate": {
+        "prices": [
+          {
+            "interval": "1_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "2_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "3_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "4_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          }
+        ],
+        "minimum": "0.000000",
+        "maximum": "0.000000"
+      },
+      "targetAudience": "PESSOA_NATURAL"
+    },
+    {
+      "participant": {
+        "brand": "Caixa",
+        "name": "CAIXA ECON?MICA FEDERAL",
+        "cnpjNumber": "00360305000104"
+      },
+      "investmentType": "FUNDO_INDICES",
+      "custodyFee": {
+        "prices": [
+          {
+            "interval": "1_FAIXA",
+            "value": "2.000000",
+            "operationRate": "0.686567"
+          },
+          {
+            "interval": "2_FAIXA",
+            "value": "2.503000",
+            "operationRate": "0.298507"
+          },
+          {
+            "interval": "3_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "4_FAIXA",
+            "value": "3.921000",
+            "operationRate": "0.014925"
+          }
+        ],
+        "minimum": "1.488000",
+        "maximum": "3.921000"
+      },
+      "loadingRate": {
+        "prices": [
+          {
+            "interval": "1_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "2_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "3_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "4_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          }
+        ],
+        "minimum": "0.000000",
+        "maximum": "0.000000"
+      },
+      "targetAudience": "PESSOA_NATURAL"
+    },
+    {
+      "participant": {
+        "brand": "Caixa",
+        "name": "CAIXA ECON?MICA FEDERAL",
+        "cnpjNumber": "00360305000104"
+      },
+      "investmentType": "ACOES",
+      "custodyFee": {
+        "prices": [
+          {
+            "interval": "1_FAIXA",
+            "value": "2.000000",
+            "operationRate": "0.999592"
+          },
+          {
+            "interval": "2_FAIXA",
+            "value": "2.245510",
+            "operationRate": "0.000322"
+          },
+          {
+            "interval": "3_FAIXA",
+            "value": "3.846150",
+            "operationRate": "0.000021"
+          },
+          {
+            "interval": "4_FAIXA",
+            "value": "5.769230",
+            "operationRate": "0.000064"
+          }
+        ],
+        "minimum": "9.120000",
+        "maximum": "6.250000"
+      },
+      "loadingRate": {
+        "prices": [
+          {
+            "interval": "1_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "2_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "3_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "4_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          }
+        ],
+        "minimum": "0.000000",
+        "maximum": "0.000000"
+      },
+      "targetAudience": "PESSOA_NATURAL"
+    },
+    {
+      "participant": {
+        "brand": "Caixa",
+        "name": "CAIXA ECON?MICA FEDERAL",
+        "cnpjNumber": "00360305000104"
+      },
+      "investmentType": "ACOES",
+      "custodyFee": {
+        "prices": [
+          {
+            "interval": "1_FAIXA",
+            "value": "2.000000",
+            "operationRate": "0.999592"
+          },
+          {
+            "interval": "2_FAIXA",
+            "value": "2.245510",
+            "operationRate": "0.000322"
+          },
+          {
+            "interval": "3_FAIXA",
+            "value": "3.846150",
+            "operationRate": "0.000021"
+          },
+          {
+            "interval": "4_FAIXA",
+            "value": "5.769230",
+            "operationRate": "0.000064"
+          }
+        ],
+        "minimum": "0.000000",
+        "maximum": "0.000000"
+      },
+      "loadingRate": {
+        "prices": [
+          {
+            "interval": "1_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "2_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "3_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "4_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          }
+        ],
+        "minimum": "0.000000",
+        "maximum": "0.000000"
+      },
+      "targetAudience": "PESSOA_NATURAL"
+    },
+    {
+      "participant": {
+        "brand": "Caixa",
+        "name": "CAIXA ECON?MICA FEDERAL",
+        "cnpjNumber": "00360305000104"
+      },
+      "investmentType": "ACOES",
+      "custodyFee": {
+        "prices": [
+          {
+            "interval": "1_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "2_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "3_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "4_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          }
+        ],
+        "minimum": "9.120000",
+        "maximum": "6.250000"
+      },
+      "loadingRate": {
+        "prices": [
+          {
+            "interval": "1_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "2_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "3_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "4_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          }
+        ],
+        "minimum": "0.000000",
+        "maximum": "0.000000"
+      },
+      "targetAudience": "PESSOA_JURIDICA"
+    },
+    {
+      "participant": {
+        "brand": "Caixa",
+        "name": "CAIXA ECON?MICA FEDERAL",
+        "cnpjNumber": "00360305000104"
+      },
+      "investmentType": "ACOES",
+      "custodyFee": {
+        "prices": [
+          {
+            "interval": "1_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "2_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "3_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "4_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          }
+        ],
+        "minimum": "0.000000",
+        "maximum": "0.000000"
+      },
+      "loadingRate": {
+        "prices": [
+          {
+            "interval": "1_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "2_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "3_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "4_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          }
+        ],
+        "minimum": "0.000000",
+        "maximum": "0.000000"
+      },
+      "targetAudience": "PESSOA_JURIDICA"
+    },
+    {
+      "participant": {
+        "brand": "Caixa",
+        "name": "CAIXA ECON?MICA FEDERAL",
+        "cnpjNumber": "00360305000104"
+      },
+      "investmentType": "FUNDO_INDICES",
+      "custodyFee": {
+        "prices": [
+          {
+            "interval": "1_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "2_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "3_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "4_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          }
+        ],
+        "minimum": "0.000000",
+        "maximum": "0.000000"
+      },
+      "loadingRate": {
+        "prices": [
+          {
+            "interval": "1_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "2_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "3_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "4_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          }
+        ],
+        "minimum": "0.000000",
+        "maximum": "0.000000"
+      },
+      "targetAudience": "PESSOA_JURIDICA"
+    },
+    {
+      "participant": {
+        "brand": "Caixa",
+        "name": "CAIXA ECON?MICA FEDERAL",
+        "cnpjNumber": "00360305000104"
+      },
+      "investmentType": "FUNDO_INDICES",
+      "custodyFee": {
+        "prices": [
+          {
+            "interval": "1_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "2_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "3_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "4_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          }
+        ],
+        "minimum": "1.488000",
+        "maximum": "3.921000"
+      },
+      "loadingRate": {
+        "prices": [
+          {
+            "interval": "1_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "2_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "3_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          },
+          {
+            "interval": "4_FAIXA",
+            "value": "0.000000",
+            "operationRate": "0.000000"
+          }
+        ],
+        "minimum": "0.000000",
+        "maximum": "0.000000"
+      },
+      "targetAudience": "PESSOA_JURIDICA"
+    }
+  ],
+  "links": {
+    "self": "https://api.openbanking.caixa.gov.br/open-banking/opendata-investments/v1/variable-incomes?page=1&page-size=25"
+  },
+  "meta": {
+    "totalRecords": 8,
+    "totalPages": 1
+  }
+}
