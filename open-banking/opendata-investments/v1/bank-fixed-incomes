@@ -1,204 +1,63 @@
 
 {
-  "data": [
-    {
-      "participant": {
-        "brand": "CITI",
-        "name": "Citibank S/A",
-        "cnpjNumber": "33479023000180"
-      },
-      "index": {
-        "issueRemunerationRate": {
-          "prices": [
-            {
-              "interval": "1_FAIXA",
-              "value": "0.109800",
-              "operationRate": "0.266667"
-            },
-            {
-              "interval": "2_FAIXA",
-              "value": "0.115900",
-              "operationRate": "0.266667"
-            },
-            {
-              "interval": "3_FAIXA",
-              "value": "0.121600",
-              "operationRate": "0.200000"
-            },
-            {
-              "interval": "4_FAIXA",
-              "value": "0.128150",
-              "operationRate": "0.266667"
-            }
-          ],
-          "minimum": "0.106000",
-          "maximum": "0.129900"
+    "data": [
+      {
+        "participant": {
+          "brand": "BANCO ORIGINAL S.A",
+          "name": "BANCO ORIGINAL S.A",
+          "cnpjNumber": "92894922000108"
         },
-        "indexer": "Pr�-fixado",
-        "indexerAdditionalInfo": ""
-      },
-      "investmentConditions": {
-        "minimumAmount": "100.00",
-        "redemptionTerm": "DIARIA",
-        "expirationPeriod": "1_360",
-        "gracePeriod": "1_360"
-      },
-      "investmentType": "CDB",
-      "issuerInstitutionCnpjNumber": "33479023000180",
-      "issuerInstitutionName": "Citibank S/A",
-      "targetAudience": "PESSOA_JURIDICA"
+        "issuerInstitutionCnpjNumber": "92894922000108",
+        "issuerInstitutionName": "BANCO ORIGINAL S.A",
+        "investmentType": "CDB",
+        "index": {
+          "indexer": "CDI",
+          "indexerAdditionalInfo": "Informações adicionais",
+          "issueRemunerationRate": {
+            "prices": [
+              {
+                "interval": "1_FAIXA",
+                "value": "0.000000",
+                "operationRate": "0.000000"
+              },
+              {
+                "interval": "2_FAIXA",
+                "value": "0.000000",
+                "operationRate": "0.000000"
+              },
+              {
+                "interval": "3_FAIXA",
+                "value": "0.000000",
+                "operationRate": "0.000000"
+              },
+              {
+                "interval": "4_FAIXA",
+                "value": "0.000000",
+                "operationRate": "0.000000"
+              }
+            ],
+            "minimum": "0.000000",
+            "maximum": "0.000000"
+          }
+        },
+        "investmentConditions": {
+          "minimumAmount": "0.00",
+          "redemptionTerm": "DIARIA",
+          "expirationPeriod": "1081+",
+          "gracePeriod": "1081+"
+        },
+        "targetAudience": "PESSOA_JURIDICA"
+      }
+    ],
+    "links": {
+      "self": "https://api-openfinance.original.com.br/open-banking/investments/v1/bank-fixed-incomes",
+      "first": "https://api-openfinance.original.com.br/open-banking/investments/v1/bank-fixed-incomes",
+      "prev": "https://api-openfinance.original.com.br/open-banking/investments/v1/bank-fixed-incomes",
+      "next": "https://api-openfinance.original.com.br/open-banking/investments/v1/bank-fixed-incomes",
+      "last": "https://api-openfinance.original.com.br/open-banking/investments/v1/bank-fixed-incomes"
     },
-    {
-      "participant": {
-        "brand": "CITI",
-        "name": "Citibank S/A",
-        "cnpjNumber": "33479023000180"
-      },
-      "index": {
-        "issueRemunerationRate": {
-          "prices": [
-            {
-              "interval": "1_FAIXA",
-              "value": "0.200000",
-              "operationRate": "0.720289"
-            },
-            {
-              "interval": "2_FAIXA",
-              "value": "0.400000",
-              "operationRate": "0.040474"
-            },
-            {
-              "interval": "3_FAIXA",
-              "value": "0.800000",
-              "operationRate": "0.026553"
-            },
-            {
-              "interval": "4_FAIXA",
-              "value": "1.000000",
-              "operationRate": "0.212684"
-            }
-          ],
-          "minimum": "0.100000",
-          "maximum": "1.042500"
-        },
-        "indexer": "CDI",
-        "indexerAdditionalInfo": ""
-      },
-      "investmentConditions": {
-        "minimumAmount": "0.01",
-        "redemptionTerm": "DIARIA",
-        "expirationPeriod": "1_360",
-        "gracePeriod": "1_360"
-      },
-      "investmentType": "CDB",
-      "issuerInstitutionCnpjNumber": "33479023000180",
-      "issuerInstitutionName": "Citibank S/A",
-      "targetAudience": "PESSOA_JURIDICA"
-    },
-    {
-      "participant": {
-        "brand": "CITI",
-        "name": "Citibank S/A",
-        "cnpjNumber": "33479023000180"
-      },
-      "index": {
-        "issueRemunerationRate": {
-          "prices": [
-            {
-              "interval": "1_FAIXA",
-              "value": "0.200000",
-              "operationRate": "0.708678"
-            },
-            {
-              "interval": "2_FAIXA",
-              "value": "0.400000",
-              "operationRate": "0.188777"
-            },
-            {
-              "interval": "3_FAIXA",
-              "value": "0.550000",
-              "operationRate": "0.001540"
-            },
-            {
-              "interval": "4_FAIXA",
-              "value": "1.002500",
-              "operationRate": "0.101005"
-            }
-          ],
-          "minimum": "0.020000",
-          "maximum": "1.045000"
-        },
-        "indexer": "CDI",
-        "indexerAdditionalInfo": ""
-      },
-      "investmentConditions": {
-        "minimumAmount": "0.01",
-        "redemptionTerm": "DIARIA",
-        "expirationPeriod": "361_1080",
-        "gracePeriod": "1_360"
-      },
-      "investmentType": "CDB",
-      "issuerInstitutionCnpjNumber": "33479023000180",
-      "issuerInstitutionName": "Citibank S/A",
-      "targetAudience": "PESSOA_JURIDICA"
-    },
-    {
-      "participant": {
-        "brand": "CITI",
-        "name": "Citibank S/A",
-        "cnpjNumber": "33479023000180"
-      },
-      "index": {
-        "issueRemunerationRate": {
-          "prices": [
-            {
-              "interval": "1_FAIXA",
-              "value": "0.960000",
-              "operationRate": "0.111111"
-            },
-            {
-              "interval": "2_FAIXA",
-              "value": "0.000000",
-              "operationRate": "0.000000"
-            },
-            {
-              "interval": "3_FAIXA",
-              "value": "1.000000",
-              "operationRate": "0.666667"
-            },
-            {
-              "interval": "4_FAIXA",
-              "value": "1.015000",
-              "operationRate": "0.222222"
-            }
-          ],
-          "minimum": "0.960000",
-          "maximum": "1.015000"
-        },
-        "indexer": "CDI",
-        "indexerAdditionalInfo": ""
-      },
-      "investmentConditions": {
-        "minimumAmount": "100.00",
-        "redemptionTerm": "DIARIA",
-        "expirationPeriod": "1081+",
-        "gracePeriod": "1_360"
-      },
-      "investmentType": "CDB",
-      "issuerInstitutionCnpjNumber": "33479023000180",
-      "issuerInstitutionName": "Citibank S/A",
-      "targetAudience": "PESSOA_JURIDICA"
+    "meta": {
+      "totalRecords": 1,
+      "totalPages": 1
     }
-  ],
-  "links": {
-    "self": "https://obbr.745.cipbanfico.com/v1/resource",
-    "first": "https://obbr.745.cipbanfico.com/v1/resource",
-    "prev": "https://obbr.745.cipbanfico.com/v1/resource",
-    "next": "https://obbr.745.cipbanfico.com/v1/resource",
-    "last": "https://obbr.745.cipbanfico.com/v1/resource"
-  },
-  "meta": {
-    "totalRecords": 4,
-    "totalPages": 1
   }
-}
