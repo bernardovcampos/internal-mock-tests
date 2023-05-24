@@ -1,0 +1,1143 @@
+
+{
+  "data": [
+    {
+      "participant": {
+        "brand": "Caceis",
+        "name": "Caceis",
+        "cnpjNumber": "62318407000150"
+      },
+      "name": "HH FUNDO DE INVESTIMENTO MULTIMERCADO CREDITO PRIVADO INVESTIMENTO NO EXTERIOR",
+      "cnpjNumber": "23029099000150",
+      "isinCode": "BRHHF1CTF001",
+      "admin": {
+        "name": "SANTANDER CACEIS BRASIL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "cnpjNumber": "62318407000119"
+      },
+      "fundManager": {
+        "name": "XP ADVISORY GESTÃO DE RECURSOS LTDA",
+        "cnpjNumber": "15289957000177"
+      },
+      "anbimaCategory": "MULTIMERCADO",
+      "fees": {
+        "maxAdminFee": "0.000000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "CDI",
+          "amount": "0.00"
+        }
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "1.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS",
+          "paymentDays": 0,
+          "paymentTerm": "DIAS_UTEIS"
+        },
+        "application": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS"
+        },
+        "fundQuotaType": "COTA_FECHAMENTO"
+      },
+      "taxation": "LONGO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Caceis",
+        "name": "Caceis",
+        "cnpjNumber": "62318407000150"
+      },
+      "name": "GAUSS V FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO MULTIMERCADO",
+      "cnpjNumber": "37452309000122",
+      "isinCode": "BR06CTCTF003",
+      "admin": {
+        "name": "SANTANDER CACEIS BRASIL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "cnpjNumber": "62318407000119"
+      },
+      "fundManager": {
+        "name": "GAUSS CAPITAL GESTORA DE RECURSOS S.A.",
+        "cnpjNumber": "21052737000128"
+      },
+      "anbimaCategory": "MULTIMERCADO",
+      "fees": {
+        "maxAdminFee": "0.000000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "CDI",
+          "amount": "0.00"
+        }
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "10000.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 29,
+          "quotationTerm": "DIAS_CORRIDOS",
+          "paymentDays": 1,
+          "paymentTerm": "DIAS_UTEIS"
+        },
+        "application": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS"
+        },
+        "fundQuotaType": "COTA_FECHAMENTO"
+      },
+      "taxation": "LONGO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Caceis",
+        "name": "Caceis",
+        "cnpjNumber": "62318407000150"
+      },
+      "name": "EQUILÍBRIO FUNDO DE INVESTIMENTO MULTIMERCADO CRÉDITO PRIVADO INVESTIMENTO NO EXTERIOR",
+      "cnpjNumber": "13591875000157",
+      "isinCode": "BREQL3CTF001",
+      "admin": {
+        "name": "SANTANDER CACEIS BRASIL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "cnpjNumber": "62318407000119"
+      },
+      "fundManager": {
+        "name": "XP ADVISORY GESTÃO DE RECURSOS LTDA",
+        "cnpjNumber": "15289957000177"
+      },
+      "anbimaCategory": "MULTIMERCADO",
+      "fees": {
+        "maxAdminFee": "0.000000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "CDI",
+          "amount": "0.00"
+        }
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "1.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS",
+          "paymentDays": 1,
+          "paymentTerm": "DIAS_UTEIS"
+        },
+        "application": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS"
+        },
+        "fundQuotaType": "COTA_FECHAMENTO"
+      },
+      "taxation": "LONGO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Caceis",
+        "name": "Caceis",
+        "cnpjNumber": "62318407000150"
+      },
+      "name": "AUGME 90 FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO MULTIMERCADO CRÉDITO PRIVADO",
+      "cnpjNumber": "17012208000123",
+      "isinCode": "BRVND1CTF007",
+      "admin": {
+        "name": "SANTANDER CACEIS BRASIL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "cnpjNumber": "62318407000119"
+      },
+      "fundManager": {
+        "name": "AUGME CAPITAL GESTAO DE RECURSOS LTDA.",
+        "cnpjNumber": "23360896000115"
+      },
+      "anbimaCategory": "MULTIMERCADO",
+      "fees": {
+        "maxAdminFee": "0.000000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "CDI",
+          "amount": "0.00"
+        }
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "0.10",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 89,
+          "quotationTerm": "DIAS_CORRIDOS",
+          "paymentDays": 1,
+          "paymentTerm": "DIAS_CORRIDOS"
+        },
+        "application": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS"
+        },
+        "fundQuotaType": "COTA_FECHAMENTO"
+      },
+      "taxation": "LONGO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Caceis",
+        "name": "Caceis",
+        "cnpjNumber": "62318407000150"
+      },
+      "name": "TI 3 FUNDO DE INVESTIMENTO MULTIMERCADO CRÉDITO PRIVADO INVESTIMENTO NO EXTERIOR",
+      "cnpjNumber": "17955373000119",
+      "isinCode": "BRTI3FCTF007",
+      "admin": {
+        "name": "SANTANDER CACEIS BRASIL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "cnpjNumber": "62318407000119"
+      },
+      "fundManager": {
+        "name": "TURIM 21 INVESTIMENTOS LTDA",
+        "cnpjNumber": "04686893000121"
+      },
+      "anbimaCategory": "MULTIMERCADO",
+      "fees": {
+        "maxAdminFee": "0.000000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "CDI",
+          "amount": "0.00"
+        }
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "100.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS",
+          "paymentDays": 0,
+          "paymentTerm": "DIAS_UTEIS"
+        },
+        "application": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS"
+        },
+        "fundQuotaType": "COTA_FECHAMENTO"
+      },
+      "taxation": "LONGO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Caceis",
+        "name": "Caceis",
+        "cnpjNumber": "62318407000150"
+      },
+      "name": "LEGACY CAPITAL CREDIT FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO MULTIMERCADO CRÉDITO PRIVADO",
+      "cnpjNumber": "39511032000197",
+      "isinCode": "BR0A4ECTF003",
+      "admin": {
+        "name": "SANTANDER CACEIS BRASIL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "cnpjNumber": "62318407000119"
+      },
+      "fundManager": {
+        "name": "LEGACY CAPITAL GESTORA DE RECURSOS LTDA",
+        "cnpjNumber": "28674641000140"
+      },
+      "anbimaCategory": "MULTIMERCADO",
+      "fees": {
+        "maxAdminFee": "1.250000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "CDI",
+          "amount": "0.00"
+        }
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "1000.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 45,
+          "quotationTerm": "DIAS_CORRIDOS",
+          "paymentDays": 1,
+          "paymentTerm": "DIAS_UTEIS"
+        },
+        "application": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS"
+        },
+        "fundQuotaType": "COTA_FECHAMENTO"
+      },
+      "taxation": "LONGO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Caceis",
+        "name": "Caceis",
+        "cnpjNumber": "62318407000150"
+      },
+      "name": "ARVOREDO FUNDO DE INVESTIMENTO MULTIMERCADO CRÉDITO PRIVADO INVESTIMENTO EXTERIOR",
+      "cnpjNumber": "37526048000148",
+      "isinCode": "BR07LICTF005",
+      "admin": {
+        "name": "SANTANDER CACEIS BRASIL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "cnpjNumber": "62318407000119"
+      },
+      "fundManager": {
+        "name": "TURIM 21 INVESTIMENTOS LTDA",
+        "cnpjNumber": "04686893000121"
+      },
+      "anbimaCategory": "MULTIMERCADO",
+      "fees": {
+        "maxAdminFee": "0.000000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "CDI",
+          "amount": "0.00"
+        }
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "100.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS",
+          "paymentDays": 0,
+          "paymentTerm": "DIAS_UTEIS"
+        },
+        "application": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS"
+        },
+        "fundQuotaType": "COTA_FECHAMENTO"
+      },
+      "taxation": "LONGO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Caceis",
+        "name": "Caceis",
+        "cnpjNumber": "62318407000150"
+      },
+      "name": "ALHM FUNDO DE INVESTIMENTO MULTIMERCADO CRÉDITO PRIVADO INVESTIMENTO EXTERIOR",
+      "cnpjNumber": "39316846000170",
+      "isinCode": "BR07X1CTF000",
+      "admin": {
+        "name": "SANTANDER CACEIS BRASIL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "cnpjNumber": "62318407000119"
+      },
+      "fundManager": {
+        "name": "TURIM 21 INVESTIMENTOS LTDA",
+        "cnpjNumber": "04686893000121"
+      },
+      "anbimaCategory": "MULTIMERCADO",
+      "fees": {
+        "maxAdminFee": "0.000000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "CDI",
+          "amount": "0.00"
+        }
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "100.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS",
+          "paymentDays": 1,
+          "paymentTerm": "DIAS_UTEIS"
+        },
+        "application": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS"
+        },
+        "fundQuotaType": "COTA_FECHAMENTO"
+      },
+      "taxation": "LONGO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Caceis",
+        "name": "Caceis",
+        "cnpjNumber": "62318407000150"
+      },
+      "name": "LIBERTY FUNDO DE INVESTIMENTO MULTIMERCADO CRÉDITO PRIVADO INVESTIMENTO NO EXTERIOR",
+      "cnpjNumber": "17490605000100",
+      "isinCode": "BRLIB3CTF004",
+      "admin": {
+        "name": "SANTANDER CACEIS BRASIL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "cnpjNumber": "62318407000119"
+      },
+      "fundManager": {
+        "name": "XP ADVISORY GESTÃO DE RECURSOS LTDA",
+        "cnpjNumber": "15289957000177"
+      },
+      "anbimaCategory": "MULTIMERCADO",
+      "fees": {
+        "maxAdminFee": "0.000000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "CDI",
+          "amount": "0.00"
+        }
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "1.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS",
+          "paymentDays": 1,
+          "paymentTerm": "DIAS_UTEIS"
+        },
+        "application": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS"
+        },
+        "fundQuotaType": "COTA_FECHAMENTO"
+      },
+      "taxation": "LONGO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Caceis",
+        "name": "Caceis",
+        "cnpjNumber": "62318407000150"
+      },
+      "name": "HERA FUNDO DE INVESTIMENTO MULTIMERCADO CRÉDITO PRIVADO INVESTIMENTO NO EXTERIOR",
+      "cnpjNumber": "17545970000175",
+      "isinCode": "BRHERFCTF008",
+      "admin": {
+        "name": "SANTANDER CACEIS BRASIL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "cnpjNumber": "62318407000119"
+      },
+      "fundManager": {
+        "name": "TURIM 21 INVESTIMENTOS LTDA",
+        "cnpjNumber": "04686893000121"
+      },
+      "anbimaCategory": "MULTIMERCADO",
+      "fees": {
+        "maxAdminFee": "0.000000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "CDI",
+          "amount": "0.00"
+        }
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "100.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS",
+          "paymentDays": 0,
+          "paymentTerm": "DIAS_UTEIS"
+        },
+        "application": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS"
+        },
+        "fundQuotaType": "COTA_FECHAMENTO"
+      },
+      "taxation": "LONGO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Caceis",
+        "name": "Caceis",
+        "cnpjNumber": "62318407000150"
+      },
+      "name": "PANÇA FUNDO DE INVESTIMENTO MULTIMERCADO CRÉDITO PRIVADO INVESTIMENTO NO EXTERIOR",
+      "cnpjNumber": "23922068000123",
+      "isinCode": "BRPAN2CTF006",
+      "admin": {
+        "name": "SANTANDER CACEIS BRASIL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "cnpjNumber": "62318407000119"
+      },
+      "fundManager": {
+        "name": "TURIM 21 INVESTIMENTOS LTDA",
+        "cnpjNumber": "04686893000121"
+      },
+      "anbimaCategory": "MULTIMERCADO",
+      "fees": {
+        "maxAdminFee": "0.000000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "CDI",
+          "amount": "0.00"
+        }
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "100.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS",
+          "paymentDays": 0,
+          "paymentTerm": "DIAS_UTEIS"
+        },
+        "application": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS"
+        },
+        "fundQuotaType": "COTA_FECHAMENTO"
+      },
+      "taxation": "LONGO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Caceis",
+        "name": "Caceis",
+        "cnpjNumber": "62318407000150"
+      },
+      "name": "HERA FUNDO DE INVESTIMENTO MULTIMERCADO",
+      "cnpjNumber": "39503903000120",
+      "isinCode": "BR0AC5CTF005",
+      "admin": {
+        "name": "SANTANDER CACEIS BRASIL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "cnpjNumber": "62318407000119"
+      },
+      "fundManager": {
+        "name": "VINCI GESTORA DE RECURSOS LTDA",
+        "cnpjNumber": "11077576000173"
+      },
+      "anbimaCategory": "MULTIMERCADO",
+      "fees": {
+        "maxAdminFee": "0.000000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "CDI",
+          "amount": "0.00"
+        }
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "1.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS",
+          "paymentDays": 1,
+          "paymentTerm": "DIAS_UTEIS"
+        },
+        "application": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS"
+        },
+        "fundQuotaType": "COTA_FECHAMENTO"
+      },
+      "taxation": "LONGO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Caceis",
+        "name": "Caceis",
+        "cnpjNumber": "62318407000150"
+      },
+      "name": "GENOA CAPITAL RADAR VNC FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO MULTIMERCADO",
+      "cnpjNumber": "39317006000122",
+      "isinCode": "BR0835CTF001",
+      "admin": {
+        "name": "SANTANDER CACEIS BRASIL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "cnpjNumber": "62318407000119"
+      },
+      "fundManager": {
+        "name": "GENOA CAPITAL GESTORA DE RECURSOS LTDA",
+        "cnpjNumber": "34276448000154"
+      },
+      "anbimaCategory": "MULTIMERCADO",
+      "fees": {
+        "maxAdminFee": "2.500000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "CDI",
+          "amount": "0.00"
+        }
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "25000.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 30,
+          "quotationTerm": "DIAS_CORRIDOS",
+          "paymentDays": 1,
+          "paymentTerm": "DIAS_UTEIS"
+        },
+        "application": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS"
+        },
+        "fundQuotaType": "COTA_FECHAMENTO"
+      },
+      "taxation": "LONGO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Caceis",
+        "name": "Caceis",
+        "cnpjNumber": "62318407000150"
+      },
+      "name": "GAUSS STB FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO MULTIMERCADO",
+      "cnpjNumber": "39503746000153",
+      "isinCode": "BR09RPCTF003",
+      "admin": {
+        "name": "SANTANDER CACEIS BRASIL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "cnpjNumber": "62318407000119"
+      },
+      "fundManager": {
+        "name": "GAUSS CAPITAL GESTORA DE RECURSOS S.A.",
+        "cnpjNumber": "21052737000128"
+      },
+      "anbimaCategory": "MULTIMERCADO",
+      "fees": {
+        "maxAdminFee": "0.850000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "CDI",
+          "amount": "0.00"
+        }
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "1.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_CORRIDOS",
+          "paymentDays": 0,
+          "paymentTerm": "DIAS_CORRIDOS"
+        },
+        "application": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_CORRIDOS"
+        },
+        "fundQuotaType": "COTA_FECHAMENTO"
+      },
+      "taxation": "LONGO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Caceis",
+        "name": "Caceis",
+        "cnpjNumber": "62318407000150"
+      },
+      "name": "ALPHATREE FUNDO DE INVESTIMENTO EM COTAS EM FUNDO DE INVESTIMENTO MULTIMERCADO",
+      "cnpjNumber": "39506707000100",
+      "isinCode": "BR09TCCTF007",
+      "admin": {
+        "name": "SANTANDER CACEIS BRASIL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "cnpjNumber": "62318407000119"
+      },
+      "fundManager": {
+        "name": "ALPHATREE CAPITAL GESTAO DE RECURSOS LTDA",
+        "cnpjNumber": "41006363000111"
+      },
+      "anbimaCategory": "MULTIMERCADO",
+      "fees": {
+        "maxAdminFee": "0.000000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "CDI",
+          "amount": "0.00"
+        }
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "5000.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 30,
+          "quotationTerm": "DIAS_CORRIDOS",
+          "paymentDays": 2,
+          "paymentTerm": "DIAS_UTEIS"
+        },
+        "application": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS"
+        },
+        "fundQuotaType": "COTA_FECHAMENTO"
+      },
+      "taxation": "LONGO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Caceis",
+        "name": "Caceis",
+        "cnpjNumber": "62318407000150"
+      },
+      "name": "IJWT FUNDO DE INVESTIMENTO MULTIMERCADO CRÉDITO PRIVADO",
+      "cnpjNumber": "42749527000163",
+      "isinCode": "BR0AVJCTF002",
+      "admin": {
+        "name": "SANTANDER CACEIS BRASIL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "cnpjNumber": "62318407000119"
+      },
+      "fundManager": {
+        "name": "TURIM 21 INVESTIMENTOS LTDA",
+        "cnpjNumber": "04686893000121"
+      },
+      "anbimaCategory": "MULTIMERCADO",
+      "fees": {
+        "maxAdminFee": "0.000000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "CDI",
+          "amount": "0.00"
+        }
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "1.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS",
+          "paymentDays": 0,
+          "paymentTerm": "DIAS_UTEIS"
+        },
+        "application": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS"
+        },
+        "fundQuotaType": "COTA_FECHAMENTO"
+      },
+      "taxation": "LONGO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Caceis",
+        "name": "Caceis",
+        "cnpjNumber": "62318407000150"
+      },
+      "name": "LEGACY CAPITAL GFO FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO MULTIMERCADO",
+      "cnpjNumber": "37440015000180",
+      "isinCode": "BR05WVCTF009",
+      "admin": {
+        "name": "SANTANDER CACEIS BRASIL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "cnpjNumber": "62318407000119"
+      },
+      "fundManager": {
+        "name": "LEGACY CAPITAL GESTORA DE RECURSOS LTDA",
+        "cnpjNumber": "28674641000140"
+      },
+      "anbimaCategory": "MULTIMERCADO",
+      "fees": {
+        "maxAdminFee": "2.500000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "CDI",
+          "amount": "0.00"
+        },
+        "exitFee": "0.100000"
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "25000.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 30,
+          "quotationTerm": "DIAS_CORRIDOS",
+          "paymentDays": 1,
+          "paymentTerm": "DIAS_UTEIS"
+        },
+        "application": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS"
+        },
+        "fundQuotaType": "COTA_FECHAMENTO"
+      },
+      "taxation": "LONGO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Caceis",
+        "name": "Caceis",
+        "cnpjNumber": "62318407000150"
+      },
+      "name": "LEGACY CAPITAL MWM FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO MULTIMERCADO",
+      "cnpjNumber": "36876030000103",
+      "isinCode": "BR054NCTF007",
+      "admin": {
+        "name": "SANTANDER CACEIS BRASIL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "cnpjNumber": "62318407000119"
+      },
+      "fundManager": {
+        "name": "LEGACY CAPITAL GESTORA DE RECURSOS LTDA",
+        "cnpjNumber": "28674641000140"
+      },
+      "anbimaCategory": "MULTIMERCADO",
+      "fees": {
+        "maxAdminFee": "2.500000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "CDI",
+          "amount": "0.00"
+        },
+        "exitFee": "0.100000"
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "25000.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 30,
+          "quotationTerm": "DIAS_CORRIDOS",
+          "paymentDays": 1,
+          "paymentTerm": "DIAS_UTEIS"
+        },
+        "application": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS"
+        },
+        "fundQuotaType": "COTA_FECHAMENTO"
+      },
+      "taxation": "LONGO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Caceis",
+        "name": "Caceis",
+        "cnpjNumber": "62318407000150"
+      },
+      "name": "ARREATA FUNDO DE INVESTIMENTO MULTIMERCADO CRÉDITO PRIVADO INVESTIMENTO EXTERIOR",
+      "cnpjNumber": "42934632000172",
+      "isinCode": "BR0AL9CTF006",
+      "admin": {
+        "name": "SANTANDER CACEIS BRASIL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "cnpjNumber": "62318407000119"
+      },
+      "fundManager": {
+        "name": "TURIM 21 INVESTIMENTOS LTDA",
+        "cnpjNumber": "04686893000121"
+      },
+      "anbimaCategory": "MULTIMERCADO",
+      "fees": {
+        "maxAdminFee": "0.000000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "CDI",
+          "amount": "0.00"
+        }
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "1.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS",
+          "paymentDays": 1,
+          "paymentTerm": "DIAS_UTEIS"
+        },
+        "application": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS"
+        },
+        "fundQuotaType": "COTA_FECHAMENTO"
+      },
+      "taxation": "LONGO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Caceis",
+        "name": "Caceis",
+        "cnpjNumber": "62318407000150"
+      },
+      "name": "PHISIQ QI GRAND SLAM FUNDO DE INVESTIMENTO MULTIMERCADO CRÉDITO PRIVADO",
+      "cnpjNumber": "14113348000108",
+      "isinCode": "BRPHI1CTF008",
+      "admin": {
+        "name": "SANTANDER CACEIS BRASIL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "cnpjNumber": "62318407000119"
+      },
+      "fundManager": {
+        "name": "QUADRANTE INVESTIMENTOS LTDA.",
+        "cnpjNumber": "04521606000123"
+      },
+      "anbimaCategory": "MULTIMERCADO",
+      "fees": {
+        "maxAdminFee": "0.000000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "CDI",
+          "amount": "0.00"
+        }
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "1.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS",
+          "paymentDays": 5,
+          "paymentTerm": "DIAS_UTEIS"
+        },
+        "application": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS"
+        },
+        "fundQuotaType": "COTA_FECHAMENTO"
+      },
+      "taxation": "LONGO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Caceis",
+        "name": "Caceis",
+        "cnpjNumber": "62318407000150"
+      },
+      "name": "LEGACY CAPITAL CREDIT ADVISORY FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO MULTIMERCADO CRÉDITO PRIVADO",
+      "cnpjNumber": "39487197000170",
+      "isinCode": "BR09NCCTF000",
+      "admin": {
+        "name": "SANTANDER CACEIS BRASIL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "cnpjNumber": "62318407000119"
+      },
+      "fundManager": {
+        "name": "LEGACY CAPITAL GESTORA DE RECURSOS LTDA",
+        "cnpjNumber": "28674641000140"
+      },
+      "anbimaCategory": "MULTIMERCADO",
+      "fees": {
+        "maxAdminFee": "1.250000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "CDI",
+          "amount": "0.00"
+        }
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "1000.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 45,
+          "quotationTerm": "DIAS_CORRIDOS",
+          "paymentDays": 1,
+          "paymentTerm": "DIAS_UTEIS"
+        },
+        "application": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS"
+        },
+        "fundQuotaType": "COTA_FECHAMENTO"
+      },
+      "taxation": "LONGO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Caceis",
+        "name": "Caceis",
+        "cnpjNumber": "62318407000150"
+      },
+      "name": "ZEUS FUNDO DE INVESTIMENTO MULTIMERCADO",
+      "cnpjNumber": "39488674000112",
+      "isinCode": "BR09H5CTF009",
+      "admin": {
+        "name": "SANTANDER CACEIS BRASIL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "cnpjNumber": "62318407000119"
+      },
+      "fundManager": {
+        "name": "WESTERN ASSET MANAGEMENT COMPANY DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+        "cnpjNumber": "07437241000141"
+      },
+      "anbimaCategory": "MULTIMERCADO",
+      "fees": {
+        "maxAdminFee": "0.250000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "CDI",
+          "amount": "0.00"
+        }
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "1.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS",
+          "paymentDays": 1,
+          "paymentTerm": "DIAS_UTEIS"
+        },
+        "application": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS"
+        },
+        "fundQuotaType": "COTA_FECHAMENTO"
+      },
+      "taxation": "LONGO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Caceis",
+        "name": "Caceis",
+        "cnpjNumber": "62318407000150"
+      },
+      "name": "ICATU VANGUARDA FUNDO DE INVESTIMENTO MULTIMERCADO FEF CD",
+      "cnpjNumber": "01624283000105",
+      "isinCode": "BRBFEFCTF006",
+      "admin": {
+        "name": "SANTANDER CACEIS BRASIL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "cnpjNumber": "62318407000119"
+      },
+      "fundManager": {
+        "name": "ICATU VANGUARDA GESTAO DE RECURSOS LTDA.",
+        "cnpjNumber": "68622174000120"
+      },
+      "anbimaCategory": "MULTIMERCADO",
+      "fees": {
+        "maxAdminFee": "0.000000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "CDI",
+          "amount": "0.00"
+        }
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "1.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS",
+          "paymentDays": 1,
+          "paymentTerm": "DIAS_UTEIS"
+        },
+        "application": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS"
+        },
+        "fundQuotaType": "COTA_FECHAMENTO"
+      },
+      "taxation": "LONGO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Caceis",
+        "name": "Caceis",
+        "cnpjNumber": "62318407000150"
+      },
+      "name": "GRIMPER MERU LONG BIAS ADVISORY FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO MULTIMERCADO",
+      "cnpjNumber": "37525911000142",
+      "isinCode": "BR07FXCTF006",
+      "admin": {
+        "name": "SANTANDER CACEIS BRASIL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "cnpjNumber": "62318407000119"
+      },
+      "fundManager": {
+        "name": "GRIMPER CAPITAL GESTORA DE RECURSOS LTDA.",
+        "cnpjNumber": "10560366000179"
+      },
+      "anbimaCategory": "MULTIMERCADO",
+      "fees": {
+        "maxAdminFee": "2.500000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "OUTROS",
+          "benchmarkAdditionalInfo": "Índice a superar: IPCA + Yield do IMA-B",
+          "amount": "0.00"
+        }
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "500.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 30,
+          "quotationTerm": "DIAS_CORRIDOS",
+          "paymentDays": 2,
+          "paymentTerm": "DIAS_UTEIS"
+        },
+        "application": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS"
+        },
+        "fundQuotaType": "COTA_FECHAMENTO"
+      },
+      "taxation": "VARIAVEL"
+    },
+    {
+      "participant": {
+        "brand": "Caceis",
+        "name": "Caceis",
+        "cnpjNumber": "62318407000150"
+      },
+      "name": "GENOA CAPITAL RADAR ANNECY FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO MULTIMERCADO",
+      "cnpjNumber": "39354842000187",
+      "isinCode": "BR08MTCTF008",
+      "admin": {
+        "name": "SANTANDER CACEIS BRASIL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+        "cnpjNumber": "62318407000119"
+      },
+      "fundManager": {
+        "name": "GENOA CAPITAL GESTORA DE RECURSOS LTDA",
+        "cnpjNumber": "34276448000154"
+      },
+      "anbimaCategory": "MULTIMERCADO",
+      "fees": {
+        "maxAdminFee": "2.500000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "CDI",
+          "amount": "0.00"
+        }
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "25000.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 30,
+          "quotationTerm": "DIAS_CORRIDOS",
+          "paymentDays": 1,
+          "paymentTerm": "DIAS_UTEIS"
+        },
+        "application": {
+          "quotationDays": 0,
+          "quotationTerm": "DIAS_UTEIS"
+        },
+        "fundQuotaType": "COTA_FECHAMENTO"
+      },
+      "taxation": "LONGO_PRAZO"
+    }
+  ],
+  "links": {
+    "self": "https://caceis.api.santander.com.br/open-banking/opendata-investments/v1/funds?page=1&page-size=25",
+    "next": "https://caceis.api.santander.com.br/open-banking/opendata-investments/v1/funds?page=2&page-size=25",
+    "last": "https://caceis.api.santander.com.br/open-banking/opendata-investments/v1/funds?page=7&page-size=25"
+  },
+  "meta": {
+    "totalRecords": 160,
+    "totalPages": 7,
+    "requestDateTime": "2023-05-24T13:57:44Z"
+  }
+}
